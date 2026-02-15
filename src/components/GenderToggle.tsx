@@ -22,7 +22,7 @@ export default function GenderToggle({ gender, onChange }: GenderToggleProps) {
         aria-pressed={gender === 'male'}
       >
         <span className="relative z-10 flex items-center gap-1.5">
-          <span className="text-base">&#x2642;</span>
+          <span className="text-base leading-none" style={{ fontFamily: 'system-ui, sans-serif' }}>&#x2642;&#xFE0E;</span>
           Male
         </span>
       </button>
@@ -38,7 +38,7 @@ export default function GenderToggle({ gender, onChange }: GenderToggleProps) {
         aria-pressed={gender === 'female'}
       >
         <span className="relative z-10 flex items-center gap-1.5">
-          <span className="text-base">&#x2640;</span>
+          <span className="text-base leading-none" style={{ fontFamily: 'system-ui, sans-serif' }}>&#x2640;&#xFE0E;</span>
           Female
         </span>
       </button>
