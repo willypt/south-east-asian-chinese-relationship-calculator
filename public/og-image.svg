@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0c0a09"/>
+  <rect x="40" y="40" width="1120" height="550" rx="24" fill="#1c1917" stroke="#991b1b" stroke-width="2"/>
+  <text x="600" y="260" font-size="140" text-anchor="middle" fill="#fca5a5" font-family="serif">亲属称谓</text>
+  <text x="600" y="360" font-size="36" text-anchor="middle" fill="#a8a29e" font-family="sans-serif" letter-spacing="8">CHINESE FAMILY TITLE CALCULATOR</text>
+  <text x="600" y="440" font-size="24" text-anchor="middle" fill="#78716c" font-family="sans-serif">Mandarin · Hokkien · Cantonese · Teochew</text>
+  <text x="600" y="520" font-size="20" text-anchor="middle" fill="#57534e" font-family="sans-serif">200+ kinship terms across 4 Southeast Asian Chinese dialects</text>
+</svg>
