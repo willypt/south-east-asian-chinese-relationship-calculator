@@ -67,4 +67,4 @@ This enables arbitrary-depth navigation through the family tree without needing 
 
 ## License
 
-MIT
+[The Unlicense](LICENSE) — released into the public domain.
